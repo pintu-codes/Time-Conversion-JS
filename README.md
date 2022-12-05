@@ -1,4 +1,4 @@
-# Time-Conversion-JS
+# Time Conversion JS
 Time Conversion AM/PM Convert Javascript | HackerRank
 Given a time in -hour AM/PM format, convert it to military (24-hour) time.
 
