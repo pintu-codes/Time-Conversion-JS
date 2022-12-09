@@ -14,4 +14,4 @@ function timeConversion(s) {
     
 }
 //Output with console.log
-console.log(timeConversion("09:30:10PM"));
+console.log(timeConversion("12:30:10AM"));
